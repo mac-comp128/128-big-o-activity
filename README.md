@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Big-o Activity
 
-Info about your project goes here
+Instructions are [here](https://docs.google.com/document/d/1UTI-1HLoBwvOo67ZwsHYjArW6qgxBYbsyiaDNri2tA0/edit?usp=sharing).
